@@ -1,4 +1,4 @@
-int srodek(int rad, int x, int y)
+int srodek(int rad, int x, int y) //zmienne typu int
 {
 
     if ((x) * (x) +
