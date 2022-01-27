@@ -1,7 +1,7 @@
 struct kolo
 {
     int numer;
-    char nazwa[NR];
+    char nazwa[NR]; //zmienna typu char
     int a;
     int b;
     int r1;
