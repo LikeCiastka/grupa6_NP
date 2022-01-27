@@ -1,4 +1,4 @@
-struct kolo
+struct kolo //struktura koła
 {
     int numer;
     char nazwa[NR]; //zmienna typu char
