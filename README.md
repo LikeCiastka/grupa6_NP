@@ -3,3 +3,5 @@
  To jest plik READ.ME który jest wymagany do podpunktu drugiego
 
 Contributor edytował te linijkę tekstu :)
+
+Cześć dokonałem tu edycji
