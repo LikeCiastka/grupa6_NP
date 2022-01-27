@@ -5,6 +5,6 @@ int srodek(int rad, int x, int y)
     (y) * (y) <= rad * rad)
     return 1;
     else
-    return 0;
+    return 0; //zwraca 0
 
 }
