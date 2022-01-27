@@ -1,0 +1,26 @@
+ struct kolo trzecie =
+    {
+    2,
+    "\ntrzecie  kolo",
+
+
+    };
+trzecie.a2 = 5 ;
+trzecie.b2 = 3;
+trzecie.r12 = 7;
+
+if(srodek(trzecie.r12,trzecie.a2,trzecie.b2) <= srodek(pierwsze.r1,pierwsze.a,pierwsze.b))
+{
+printf("%s\n",trzecie.nazwa);
+int area=trzecie.r12*trzecie.r12*PI;
+printf("%d",area);
+
+
+
+}
+else
+    printf("\npunkt nie jest w trzecim kole"); //printuje informacje o tym że punkt nie jest w 3 kole
+
+
+
+}

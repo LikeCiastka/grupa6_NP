@@ -1,0 +1,29 @@
+int main() {
+int x,y;
+struct kolo pierwsze =
+    {
+    1,
+    "pierwsze kolo",
+
+
+    };
+pierwsze.a2 = 8 ;
+pierwsze.b2 = 6;
+pierwsze.r12 = 10;
+printf("wprowadz  a");
+scanf("%d",&pierwsze.a);
+printf("wprowadz b");
+scanf("%d",&pierwsze.b);
+printf("wprowadz promien kola"); //promien
+scanf("%d",&pierwsze.r1);
+if(srodek(pierwsze.r12,pierwsze.a2,pierwsze.b2) <= srodek(pierwsze.r1,pierwsze.a,pierwsze.b))
+{
+printf("%s\n",pierwsze.nazwa);
+int area=pierwsze.r1*pierwsze.r1*PI;
+printf("%d",area);
+
+
+
+}
+else
+    printf("punkt nie jest w pierwszym kole");
