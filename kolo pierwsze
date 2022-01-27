@@ -1,5 +1,5 @@
 int main() {
-int x,y; //dwie zmienne
+int x,y;
 struct kolo pierwsze =
     {
     1,
@@ -14,7 +14,7 @@ printf("wprowadz  a");
 scanf("%d",&pierwsze.a);
 printf("wprowadz b");
 scanf("%d",&pierwsze.b);
-printf("wprowadz promien kola");
+printf("wprowadz promien kola"); //promien
 scanf("%d",&pierwsze.r1);
 if(srodek(pierwsze.r12,pierwsze.a2,pierwsze.b2) <= srodek(pierwsze.r1,pierwsze.a,pierwsze.b))
 {
