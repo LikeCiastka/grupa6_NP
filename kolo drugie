@@ -19,4 +19,4 @@ printf("%d",area);
 
 }
 else
-    printf("punkt nie jest w drugim kole\n");
+    printf("punkt nie jest w drugim kole\n"); //test
