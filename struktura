@@ -1,0 +1,14 @@
+struct kolo
+{
+    int numer;
+    char nazwa[NR];
+    int a;
+    int b;
+    int r1;
+
+    int a2;
+    int b2;
+    int r12;
+
+
+};
