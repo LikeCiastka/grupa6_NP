@@ -6,7 +6,7 @@
 
     };
 drugie.a2 = 70 ;
-drugie.b2 = 80;
+drugie.b2 = 80; //.
 drugie.r12 = 50;
 
 if(srodek(drugie.r12,drugie.a2,drugie.b2) <= srodek(pierwsze.r1,pierwsze.a,pierwsze.b))
