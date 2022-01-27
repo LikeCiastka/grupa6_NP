@@ -1,4 +1,10 @@
+int srodek(int rad, int x, int y)
+{
 
+    if ((x) * (x) +
+    (y) * (y) <= rad * rad)
+    return 1;
+    else
+    return 0;
 
-     printf("ujemnych jest wiecej");
-
+}
