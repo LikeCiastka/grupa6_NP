@@ -19,7 +19,7 @@ printf("%d",area);
 
 }
 else
-    printf("\npunkt nie jest w trzecim kole");
+    printf("\npunkt nie jest w trzecim kole"); //printuje informacje o tym że punkt nie jest w 3 kole
 
 
 
