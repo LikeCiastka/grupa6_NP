@@ -27,7 +27,7 @@ if (liczby1>liczby2)
 else
 {
 
-    printf("ujemnych jest wiecej");
+    
 
 }
 fflush(stdin);
